@@ -1,0 +1,17 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Chernoff bound}{3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Weak Law of Large Numbers}{7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Gaussian Mixture Model}{9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}General Idea}{9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Parameter Estimation}{9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Properties}{11}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Difference from Weighted sum of Gaussians}{12}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Uniqueness of the Moment Generating Function}{15}%
